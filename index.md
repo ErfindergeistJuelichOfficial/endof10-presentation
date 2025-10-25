@@ -24,15 +24,27 @@ format:
 Intro
 
 ## Windows 10
+
+https://www.golem.de/news/stichtag-14-oktober-so-melden-wir-uns-fuer-den-erweiterten-windows-10-support-an-2510-200987.html
+
+Supportende
+Was sind weitere Optionen
+
 ## Windows 11
+Was sind Voraussetzungen zur Installation
+
 ## Linux
-## Unterschiede
-Was gibt es und was gibt es nicht
+
+Betriebssystem
+Geschichte
 
 ## Distributionen
 Was ist es
 Was sind Unterschiede
 Zeigen verschiedener Oberflächen
+
+## Unterschiede
+Was gibt es und was gibt es nicht
 
 ## Voraussetzungen
 - SSD, 64bit , RAM
