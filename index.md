@@ -1,4 +1,6 @@
 ---
+title: Umstieg auf Linux
+subtitle: Ein Angebot des Vereins Erfindergeist Jülich e.V.
 format:
   revealjs:
     chalkboard: true
@@ -8,7 +10,7 @@ format:
     footer: Umstieg auf Linux - Erfindergeist Jülich e.V.
     theme: dark
 ---
-# Umstieg auf Linux
+##
 <figure>
   <img src="img/supportende.png" width="100%">
   <figcaption>Supportende^[https://www.golem.de/news/supportende-der-letzte-tag-von-windows-10-ist-angebrochen-was-nun-2510-201126.html]</figcaption>
