@@ -1,5 +1,7 @@
 # End of 10 Präsentation
 
+https://endof10.erfindergeist.org/
+
 Präsentation für die [End of 10 Veranstaltungsreihe](https://erfindergeist.org/2025/09/30/end-of-10-veranstaltungsreihe-umstieg-auf-linux/) des Erfindergeist Jülich e.V.
 
 Die Präsentation wird mit quarto und revealjs erstellt (https://prerelease.quarto.org/docs/presentations/revealjs/).
