@@ -8,3 +8,4 @@ Die Präsentation wird mit quarto und revealjs erstellt (https://prerelease.quar
 * [Quarto](https://quarto.org/) installieren
 * Die Präsentation bauen `quarto render index.md`
 * Das resultierenden `index.html` im Browser öffnen
+* Synchronisieren auf den Server `rsync -ravh  img index.html index_files root@erfindergeist-headscale:/var/www/html/endof10/`
