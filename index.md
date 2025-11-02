@@ -150,10 +150,9 @@ format:
 * Solid state disk (SSD), vielleicht auch eine eigene SSD für Linux anschaffen
 * 4GB RAM
 * 64bit Architektur (Einstellungen -> System -> Über -> "System type") <figure>
-  <img src="img/64bit.webp" width="50%">
+  <img src="img/64bit.webp" width="30%">
 </figcaption>
 </figure>
-
 :::
 
 ## Vorbereitung der Installation
@@ -172,9 +171,13 @@ format:
 * Startup -> Boot -> USB Stick auswählen
 * Save and Exit (F10)
 * Live Modus
-  - Bedenkenlos die Distribution kennenlernen
-  - Die Daten auf der bestehenden Festlatte werden nicht verändert
-  - Ausprobieren und Testen der Hardware
+:::
+
+## Live Modus
+::: {.incremental}
+- Bedenkenlos die Distribution kennenlernen
+- Die Daten auf der bestehenden Festlatte werden nicht verändert
+- Ausprobieren und Testen der Hardware
 :::
 
 ## Demo Vorbereitung und Live Modus
