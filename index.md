@@ -34,8 +34,10 @@ format:
 * [Extended security updates](https://www.microsoft.com/en-us/windows/extended-security-updatesj)
   - Sicherheitsupdates bis zum 13. Oktober 2026
   - Nicht kostenlos! Entweder $30 USB oder 1000 Microsoft Punkte oder Upload von Daten
-* **Fazit:** Ein Wechsel sollte in jeden Fall unbedingt erfolgen! Entweder auf Windows 11 oder Linux
 :::
+
+## Windows 10
+**Fazit:** Ein Wechsel sollte in jeden Fall unbedingt erfolgen! Entweder auf Windows 11 oder Linux
 
 ## Windows 11
 * Windows 11 setzt neue Hardware voraus (TPM 2.0 und Secure Boot)[^1]
