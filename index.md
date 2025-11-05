@@ -1,5 +1,8 @@
 ---
 title: Umstieg auf Linux
+title-slide-attributes:
+  data-background-image: img/title.svg
+  data-background-size: 40%
 subtitle: Ein Angebot des Vereins Erfindergeist Jülich e.V.
 format:
   revealjs:
