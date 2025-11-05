@@ -221,18 +221,15 @@ format:
 * [krebsonsecurity - End of 10](https://krebsonsecurity.com/2025/10/patch-tuesday-october-2025-end-of-10-edition/)
 * [pirg.org - Why the end of support for Windows 10 is troubling](https://pirg.org/articles/why-the-end-of-support-for-windows-10-is-uniquely-troubling/)
 
-## Feedback & Spenden
-:::: {.columns}
-::: {.column width="50%"}
-Spenden via [Paypal](http://paypal.erfindergeist.org/)
+## Spenden & Bewertung
+Spenden: Bar, [Paypal](http://paypal.erfindergeist.org/) oder [Überweisung](https://erfindergeist.org/spendenkonto/)
 <figure>
-  <img src="img/paypal.png" width="50%">
+  <img src="img/linktree.svg" width="20%">
 </figcaption>
 </figure>
-:::
 
-::: {.column width="50%"}
-Umfrage
-:::
-
-::::
+[Bewertung](https://cloud.erfindergeist.org/apps/forms/s/tSjrDtxPSkB47HdBRGKsy8fT): vier kurze Fragen
+<figure>
+  <img src="img/feedback.svg" width="20%">
+</figcaption>
+</figure>
