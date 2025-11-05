@@ -141,9 +141,10 @@ format:
 
 ## Applikationen - Potentiell problematisch
 ::: {.incremental}
-* Microsoft office -> Im Browser
-* Adobe (Photoshop etc.) -> benutzerfreundliche Alternativen: gimp, inkscape
+* Microsoft Office -> Im Browser
+* Adobe (Photoshop etc.) -> benutzerfreundliche Alternativen: Gimp, Inkscape
 * Steuersoftware -> Alternative: online
+* CAD Software
 * Konfigurationssoftware für spezielle Geräte (z.B. Fitnesstracker, etc.)
 :::
 
@@ -187,7 +188,7 @@ format:
 ## Ablauf der Installation
 ::: {.incremental}
 * Sprachauswahl
-* Internetverbindung einrichten (WLAN oder Kabel) um gleich updates zu installieren, kann aber auch nach der Installation passieren
+* Internetverbindung einrichten (WLAN oder Kabel) um gleich Updates zu installieren, kann aber auch nach der Installation passieren
 * Multimedia Codecs und Treiber installieren um später alle Video- und Audio-Formate abspielen zu können
 * Formatierung: Festplatte löschen -> Achtung hierbei werden alle Daten gelöscht
 :::
@@ -207,6 +208,13 @@ format:
 - Virtualisierung, Emulation, Winboat, Winapps, etc.
 - Dual boot
 :::
+
+## Vorbereitung nächste Woche
+* Backups von Daten, Passwörtern etc. (alternativ: eigene SSD)
+* Programme und Alternativen überlegen
+* Distribution auswählen
+* BIOS Tastenkombination herausfinden
+* Wenn möglich Stick vorbereiten
 
 ## Fagen & Diskussion
 
