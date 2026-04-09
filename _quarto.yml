@@ -1,0 +1,19 @@
+project:
+  type: website
+
+website:
+  title: "Umstieg auf Linux"
+  navbar:
+    left:
+      - href: endOf10.qmd
+        text: Home
+
+format:
+  html:
+    theme:
+      - darkly
+    css: styles.css
+    toc: true
+
+
+
