@@ -1,4 +1,4 @@
-name: 🚀 Deploy Presentation ki2endOf10
+name: 🚀 Deploy Presentation endOf10
 
 on:
   push:
@@ -12,7 +12,7 @@ jobs:
 
     steps:
     - name: 🚚 Get latest code
-      uses: actions/checkout@v4
+      uses: actions/checkout@v6
 
     - name: quarto setup
       uses: quarto-dev/quarto-actions/setup@v2
